@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\github\demo\SwipeMenuDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\github\demo\SwipeMenuDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_7e2148b14df2e589b50f9c171af87a33e4f6191c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github\demo\SwipeMenuDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\github\demo\SwipeMenuDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_e19b3601fb7adb0593a98aa12afd62572fec07c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software\work\newassdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\github\demo\SwipeMenuDemo\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_ab92f382a979e4124788a993548101951f4f363a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github\demo\SwipeMenuDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\github\demo\SwipeMenuDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_5bad8d20e43c8b31d5b9f899579a40065bdc45ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github\demo\SwipeMenuDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\github\demo\SwipeMenuDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_97e2f4b9403e567015273eb83139105c45803a83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github\demo\SwipeMenuDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\github\demo\SwipeMenuDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_fa95d7a53521ff68520166dd5c993784dcc5bc0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github\demo\SwipeMenuDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\github\demo\SwipeMenuDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_f14c6fabc3b0f6c4551a2a2a214d8e0e2f27ce16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github\demo\SwipeMenuDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\github\demo\SwipeMenuDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_162f72a752217b6285bb584a5363ab1800916461.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github\demo\SwipeMenuDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\github\demo\SwipeMenuDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_a5260f744cefe197dff233a2267bead2adc1be30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\github\demo\SwipeMenuDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\github\demo\SwipeMenuDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_da1e63d8dec8d642730f7b5e0e023c8ebcc90b26.jar" />
+    </item>
+
+</items>
